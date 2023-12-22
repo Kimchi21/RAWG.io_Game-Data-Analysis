@@ -1,0 +1,6 @@
+Data/
+!Data/dev_data.csv
+!Data/game_data.rar
+!Data/pub_data.csv
+# Ignore the game_data.csv file within the Data folder
+Data/game_data.csv
