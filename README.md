@@ -8,10 +8,11 @@
 2. [Methodology](#methodology)
 3. [Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Results and Conclusion](#results-and-conclusion)
-5. [Dashboard](#dashboard)
+5. [Recommendations](#recommendations)
+6. [Dashboard](#dashboard)
 
 ## Overview<a name="overview"></a>
-This analysis delves into the vast realm of gaming data, specifically focusing on insights derived from RAWG.io, a comprehensive video game database. The project aims to unravel crucial aspects of gaming trends, user preferences, and industry behavior by examining an array of gaming-related metrics such as game titles, genres, user engagement, platform popularity, and more. By conducting a comprehensive analysis of this diverse data the goal is to extract valuable insights to aid in understanding the gaming landscape.
+This analysis delves into the vast realm of gaming data, specifically focusing on insights derived from RAWG.io, a comprehensive video game database. The project aims to unravel crucial aspects of gaming trends, user preferences, and industry behavior by examining an array of gaming-related metrics such as game titles, genres, user engagement, platform popularity, and more. By conducting a comprehensive analysis of this diverse data the goal is to extract valuable insights to aid in understanding the gaming landscape especially for those that want to get into gaming.
 
 **Key Objectives**:
 - User Engagement and Game Performance Analysis: Evaluating user interactions, playtime metrics, and user-generated content to assess the performance and engagement levels of different game titles.
@@ -376,6 +377,25 @@ In some point in my life I have probably played one(or more) of the games listed
 **Conclusion**
 
 The extensive analysis of gaming data sheds light on crucial facets of user engagement, game performance, player preferences across genres, platforms, and developers. These insights are invaluable, enabling informed decisions regarding game development, marketing strategies, and platform optimizations to enhance player experiences and market competitiveness in the gaming industry.
+
+
+## Recommendations<a name="recommendations"></a>
+For someone new to gaming:
+
+**Explore Diverse Genres:**
+- Try various game genres like action, adventure, puzzle, or simulation to find what interests you the most.
+
+**Start with Popular Titles:**
+- Begin with well-reviewed games across different platforms to experience a variety of gaming styles and stories.
+
+**Consider Gaming Platforms:**
+- Choose a platform (PC, console, mobile) based on your preferences for gaming convenience and types of games available.
+
+**Community Engagement:**
+- Join gaming communities or forums to seek recommendations, tips, and connect with other players for a more engaging experience.
+
+**Enjoy the Experience:**
+- **Have fun!** Gaming is about entertainment and relaxation. Don’t be afraid to explore and enjoy the games at your own pace.
 
 
 ## Dashboard<a name="dashboard"></a>
