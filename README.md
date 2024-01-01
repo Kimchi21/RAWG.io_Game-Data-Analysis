@@ -323,60 +323,33 @@ In some point in my life I have probably played one(or more) of the games listed
 
 ### User Engagement and Game Performance Analysis
 
-**Top 10 Oldest and Newest Games Released**
-- The findings showcase significant historical milestones and innovations in gaming, portraying the foundational period of gaming and contemporary trends.
+1. **User Engagement and Game Performance**
+- The analysis highlighted a wide spectrum of gaming experiences, from some of the earliest games dating back to the mid-20th century to the latest contemporary titles released on the same date. This showcases the evolution of gaming from its foundational period to the current era of innovative and technologically advanced creations.
 
-**Top 10 Games with the Highest Average Playtime**
-- Indicates deep engagement among players, particularly with titles like Shaiya, attributing its high playtime to its massively multiplayer online (MMO) nature.
+2. **Game Metrics Analysis**
+- The highest average playtime was recorded for games like Shaiya, Spreadstorm, and Amberial Dreams, suggesting an engaging gameplay experience, particularly for massively multiplayer online (MMO) games, which often involve extensive grinding elements.
 
-**Top 10 Highest and Lowest Rated Games According to Metacritic Rating**
-- Highlights the contrast between highly rated games, emphasizing notable trends among publishers or developers, particularly within Nintendo's catalog.
+3. **Ratings and Reception**
+- Games such as The Legend of Zelda: Ocarina of Time received exceptionally high Metacritic scores, whereas Orc Slayer received notably low ratings. It's noteworthy that Nintendo games tended to rank among the highest-rated titles.
 
-**Top 10 Games with the Highest Review Counts**
-- Signifies the popularity and engagement levels of specific games, such as Grand Theft Auto V, based on the number of reviews received.
+4. **ESRB Ratings Distribution**
+- The distribution of ESRB ratings showed a significant portion of games not being rated, indicating varied content available. Games targeted at different age groups showed a diverse presence on the platform.
 
-**Top 10 Games with Highest Ratings Score (Exceptional, Recommended, Meh, Skip) Obtained**
-- Indicates player preferences between single-player and multiplayer experiences, reflecting the impact on ratings.
+5. **Top-Rated Games and User Engagement**
+- The top-rated games on RAWG.io, like The Witcher 3: Wild Hunt and Portal 2, garnered high user engagement and review counts, contributing to their exceptional ratings.
 
-**Top 10 Games which were Added the Most to Players Library**
-- Demonstrates the popularity and interest among gamers, reflected in the frequency of adding specific games to their libraries.
+6. **Library Status and Player Behavior**
+- Player behaviors reflected in library status (Owned, Playing, Dropped, etc.) showcased varied preferences for game completion and ongoing engagement. Single-player games were more likely to be owned or completed compared to PvP-centric games.
 
-**Top 10 Games with the Most Number for each Library Status**
-- Illustrates diverse player behaviors towards different games through various library statuses.
+7. **Genre, Platform, and Store Preferences**
+- PC gaming dominated the platform preference, while action, adventure, and indie genres were the most prevalent among gamers. Notably, specific stores like itch.io and Steam hosted a significant number of games.
 
-### Genre, Tag, Platform, Store, Developer, Publisher Preferences
-
-**Distribution of General and Specific Platforms**
-- Highlights platform dominance and preferences among gamers, showcasing PC's significant presence over mobile and console platforms.
-
-**Distribution of Specific Stores**
-- Underlines the popularity of specific gaming stores, emphasizing the availability of games across different platforms.
-
-**Distribution of Genres**
-- Reveals player preferences for certain genres, showcasing action and adventure genres as leading preferences among gamers.
-
-**Distribution of Tags**
-- Indicates prominent features preferred by players in games, shedding light on specific characteristics that resonate with gamers.
-
-**Distribution of Developers**
-- Identifies prolific creators and their impact within the gaming industry based on the number of games produced.
-
-**Distribution of Publishers**
-- Highlights the significance of specific publishers in releasing a broad range of gaming titles, showcasing their influence in the gaming community.
-
-### Genre Rating
-
-**Average Rating for Each Genre**
-- Offers insights into player perceptions and preferences, revealing which gaming genres receive higher average ratings.
-
-### Best Performing Developers
-
-**Analysis of Developer Performance**
-- Evaluates and ranks developers based on the production of highly-rated games, showcasing patterns in developer performance and their reputation for delivering high-quality gaming experiences consistently.
+8. **Developer and Publisher Insights**
+- Several developers and publishers stood out in terms of the number of games developed or published. The notable performances of developers like Naughty Dog, Yacht Club Games, and Nintendo were reflected in their high average game ratings.
 
 **Conclusion**
 
-The extensive analysis of gaming data sheds light on crucial facets of user engagement, game performance, player preferences across genres, platforms, and developers. These insights are invaluable, enabling informed decisions regarding game development, marketing strategies, and platform optimizations to enhance player experiences and market competitiveness in the gaming industry.
+This extensive analysis of gaming data sheds light on crucial facets of user engagement, game performance, player preferences across genres, platforms, and developers. These insights are invaluable, enabling informed decisions regarding game development, marketing strategies, and platform optimizations to enhance player experiences and market competitiveness in the gaming industry.
 
 
 ## Recommendations<a name="recommendations"></a>
