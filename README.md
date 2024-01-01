@@ -321,30 +321,28 @@ In some point in my life I have probably played one(or more) of the games listed
 
 ## Results and Conclusion<a name="results-and-conclusion"></a>
 
-### User Engagement and Game Performance Analysis
-
-1. **User Engagement and Game Performance**
+**User Engagement and Game Performance**
 - The analysis highlighted a wide spectrum of gaming experiences, from some of the earliest games dating back to the mid-20th century to the latest contemporary titles released on the same date. This showcases the evolution of gaming from its foundational period to the current era of innovative and technologically advanced creations.
 
-2. **Game Metrics Analysis**
+**Game Metrics Analysis**
 - The highest average playtime was recorded for games like Shaiya, Spreadstorm, and Amberial Dreams, suggesting an engaging gameplay experience, particularly for massively multiplayer online (MMO) games, which often involve extensive grinding elements.
 
-3. **Ratings and Reception**
+**Ratings and Reception**
 - Games such as The Legend of Zelda: Ocarina of Time received exceptionally high Metacritic scores, whereas Orc Slayer received notably low ratings. It's noteworthy that Nintendo games tended to rank among the highest-rated titles.
 
-4. **ESRB Ratings Distribution**
+**ESRB Ratings Distribution**
 - The distribution of ESRB ratings showed a significant portion of games not being rated, indicating varied content available. Games targeted at different age groups showed a diverse presence on the platform.
 
-5. **Top-Rated Games and User Engagement**
+**Top-Rated Games and User Engagement**
 - The top-rated games on RAWG.io, like The Witcher 3: Wild Hunt and Portal 2, garnered high user engagement and review counts, contributing to their exceptional ratings.
 
-6. **Library Status and Player Behavior**
+**Library Status and Player Behavior**
 - Player behaviors reflected in library status (Owned, Playing, Dropped, etc.) showcased varied preferences for game completion and ongoing engagement. Single-player games were more likely to be owned or completed compared to PvP-centric games.
 
-7. **Genre, Platform, and Store Preferences**
+**Genre, Platform, and Store Preferences**
 - PC gaming dominated the platform preference, while action, adventure, and indie genres were the most prevalent among gamers. Notably, specific stores like itch.io and Steam hosted a significant number of games.
 
-8. **Developer and Publisher Insights**
+**Developer and Publisher Insights**
 - Several developers and publishers stood out in terms of the number of games developed or published. The notable performances of developers like Naughty Dog, Yacht Club Games, and Nintendo were reflected in their high average game ratings.
 
 **Conclusion**
